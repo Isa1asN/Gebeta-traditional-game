@@ -1,5 +1,5 @@
 # Gebeta-traditional-game
-Gebeta(mancala) game using pygame, a project I worked on for computer graphics project
+Gebeta(mancala) game using pygame, a project I collaborated on for computer graphics project
 
 To run, clone the project folder and run the welcome.py file 
 
